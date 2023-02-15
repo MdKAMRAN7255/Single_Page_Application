@@ -4,7 +4,7 @@ I have completed **Single Page Application** which contains four tabs Home, work
 
 This is the work tab in which I used image slider which is not in demo website i added it by myself because it is mentioned in LMS.
 ![Screenshot from 2023-02-15 13-41-25](https://user-images.githubusercontent.com/122250114/218970386-56e3192b-0581-4f0e-9c60-cd0fd5430a97.png)
-and As all the image is not of same height. that's why there is some change in position of next and previous Carousel button because button is adjusting to center of each image.
+And as all the image is not of same height. that's why there is some change in position of next and previous Carousel button because button is adjusting to center of each image.
 
 In About page I used scrolltoview, so that if I click on any of the sidebar option like (about, modus operandi, experience, etc.) the page will scroll down to partiular section of the page.
 <img src="https://github.com/MdKAMRAN7255/SPA_practise/blob/fa43aadf4cf9415a1635a8970deb1b03e5f10685/Screenshot%20from%202023-02-15%2013-56-25.png">
