@@ -34,4 +34,4 @@ I have also added effect on navbar such that if we scrolldown navbar is not visi
 And I have used semantic element such as for image I use figure tag and for paragraph I use article tag and header and footer tag also.
 By default in bootstrap section tag is used in class. so I have not used section tag separately.
 
-And whenever You changes the page title of the page will also change every time.
+And whenever You changes the page, title of the page will also change every time.
