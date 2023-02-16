@@ -34,9 +34,9 @@ function getContent(fragmentId, callback) {
                             <article>
                                 <p>
                                     Staff UX Design Lead @Verily. Previously Head of Design  
-                                    <a href="https://www.turnwall.com/work/admithub/">@Admithub</a>
+                                    <a href="">@Admithub</a>
                                     , Chief Design Officer 
-                                    <a href="https://www.turnwall.com/work/bevspot-inventory-counter/">@BevSpot</a>
+                                    <a href="">@BevSpot</a>
                                     , Lecturer @Northeastern
                                 </p>
                             </article>
@@ -203,7 +203,7 @@ function getContent(fragmentId, callback) {
                             <div class="col-11 col-lg-5">
                                 <p>I'm a Boston-based designer, developer, and strategist. I
                                     <a  href="">consult</a>, 
-                                    <a  href="https://www.turnwall.com/articles/">write</a>, 
+                                    <a  href="">write</a>, 
                                     and speak about design, entrepreneurship and technology. 
                                     You might also find me biking, kayaking, skiing, woodworking, or brewing.
                                 </p>
@@ -212,7 +212,7 @@ function getContent(fragmentId, callback) {
                                 <p>Get in touch:</p>
                                 <p class="small">
                                     Email <a href="">alex@turnwall.com</a>
-                                    <br>LinkedIn <a href="" target="_blank">/alexturnwall</a>
+                                    <br>LinkedIn <a href="">/alexturnwall</a>
                                 </p>
                             </div>
                         </div>
@@ -462,7 +462,7 @@ function getContent(fragmentId, callback) {
                             <div class="col-11 col-lg-5">
                                 <p>I'm a Boston-based designer, developer, and strategist. I
                                     <a  href="">consult</a>, 
-                                    <a  href="https://www.turnwall.com/articles/">write</a>, 
+                                    <a  href="">write</a>, 
                                     and speak about design, entrepreneurship and technology. 
                                     You might also find me biking, kayaking, skiing, woodworking, or brewing.
                                 </p>
@@ -471,7 +471,7 @@ function getContent(fragmentId, callback) {
                                 <p>Get in touch:</p>
                                 <p class="small">
                                     Email <a href="">alex@turnwall.com</a>
-                                    <br>LinkedIn <a href="" target="_blank">/alexturnwall</a>
+                                    <br>LinkedIn <a href="">/alexturnwall</a>
                                 </p>
                             </div>
                         </div>
@@ -680,7 +680,7 @@ function getContent(fragmentId, callback) {
               <div class="col-11 col-lg-5">
                   <p>I'm a Boston-based designer, developer, and strategist. I
                        <a  href="">consult</a>, 
-                       <a  href="https://www.turnwall.com/articles/">write</a>, 
+                       <a  href="">write</a>, 
                        and speak about design, entrepreneurship and technology. 
                        You might also find me biking, kayaking, skiing, woodworking, or brewing.
                   </p>
@@ -689,7 +689,7 @@ function getContent(fragmentId, callback) {
                   <p>Get in touch:</p>
                   <p class="small">
                     Email <a href="">alex@turnwall.com</a>
-                    <br>LinkedIn <a href="" target="_blank">/alexturnwall</a>
+                    <br>LinkedIn <a href="">/alexturnwall</a>
                   </p>
               </div>
           </div>
@@ -1274,7 +1274,7 @@ function getContent(fragmentId, callback) {
                                 <div class="col-11 col-lg-5">
                                     <p>I'm a Boston-based designer, developer, and strategist. I
                                         <a href="">consult</a>,
-                                        <a href="https://www.turnwall.com/articles/">write</a>,
+                                        <a href="">write</a>,
                                         and speak about design, entrepreneurship and technology.
                                         You might also find me biking, kayaking, skiing, woodworking, or brewing.
                                     </p>
